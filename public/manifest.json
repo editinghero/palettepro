@@ -3,7 +3,7 @@
   "name": "ColorPro - Professional Color Palette Generator",
   "short_name": "ColorPro",
   "description": "Generate and explore unlimited professional color palettes and gradients for your design projects",
-  "start_url": "/",
+  "start_url": "/palettepro/",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#8B5CF6",
