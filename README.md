@@ -1,6 +1,6 @@
 
 # ColorPro - Professional Color Palette Generator
-
+**URL:**  editinghero.github.io/palettepro/
 A modern web application for generating and exploring unlimited professional color palettes and gradients for your design projects.
 
 ## Technologies Used
