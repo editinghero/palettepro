@@ -1,10 +1,10 @@
 
 const CACHE_NAME = 'colorpro-v1';
 const urlsToCache = [
-  '/',
-  '/static/js/bundle.js',
-  '/static/css/main.css',
-  '/manifest.json'
+  '/palettepro/',
+  '/palettepro/static/js/bundle.js',
+  '/palettepro/static/css/main.css',
+  '/palettepro/manifest.json'
 ];
 
 self.addEventListener('install', function(event) {
